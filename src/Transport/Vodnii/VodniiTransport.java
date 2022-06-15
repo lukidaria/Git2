@@ -1,2 +1,6 @@
-package Transport.Vodnii;public class VodniiTransport {
+package Transport.Vodnii;
+
+import Transport.Transport;
+
+public class VodniiTransport extends Transport{
 }

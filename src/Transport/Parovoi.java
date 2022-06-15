@@ -1,2 +1,5 @@
-package Transport;public interface Parovoi {
+package Transport;
+
+public interface Parovoi {
+    void parAble();
 }
